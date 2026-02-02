@@ -44,13 +44,33 @@ Sou um empreendedor e desenvolvedor focado em unir o **Agronegócio**, **Blockch
 
 ---
 
-## 📊 Estatísticas | Stats
+## 📊 Métricas de Desenvolvimento | Development Metrics
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandro-AAA&theme=radical" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandro-AAA&theme=react-dark" width="100%" />
+</p>
+
 <table align="center">
   <tr>
-    <td align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandro-AAA&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></td>
-    <td align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-AAA&layout=compact&theme=radical"/></td>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-AAA&layout=compact&theme=radical&hide=html,css"/>
+    </td>
   </tr>
 </table>
+
+---
+
+## 🏆 Projetos de Destaque | Featured Projects
+
+<p align="center">
+  <a href="https://github.com/DEXWORLD-ECOSYSTEM/SocialFi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEXWORLD-ECOSYSTEM&repo=SocialFi&theme=radical" alt="Repo Card do SocialFi" />
+  </a>
+</p>
 
 ---
 
