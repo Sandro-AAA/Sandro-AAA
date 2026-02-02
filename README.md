@@ -13,7 +13,14 @@ Sou um empreendedor e desenvolvedor focado em unir o **Agronegócio**, **Blockch
 - 🏗️ **Foco Atual:** Incubação de startups e tokenização de ativos no ecossistema **Mundo Digital**.
 - 📍 **Projeto Paraty Integrado:** Liderando a digitalização e regularização agroecológica em Paraty-RJ (ASPPIBRA).
 - 🦈 **Shark Tank Brasil:** Projeto submetido e documentação apresentada para expansão de impacto em 2026.
-- 🏛️ **Engajamento Público:** Pre-candidato no Rio de Janeiro com pautas focadas em redução de impostos (Fim do IR e IPTU) e liberdade econômica.
+
+---
+
+<p align="center">
+  <img src="missao-bitcoin.png" alt="Sandro no Missão Bitcoin" width="600">
+  <br>
+  <em>Networking no evento Missão Bitcoin com referências do ecossistema Web3.</em>
+</p>
 
 ---
 
@@ -37,7 +44,6 @@ Sou um empreendedor e desenvolvedor focado em unir o **Agronegócio**, **Blockch
 
 ## 🌍 Projetos de Destaque | Featured Projects
 * **ASPPIBRA-DAO:** Organização autônoma para fomento rural e agroecologia via Web3.
-* **Zona Extrema (Xtreme Paraty):** Organização de eventos de sobrevivência e integração regional no RJ.
 * **Tokenização RWA:** Transformando a produção rural e ativos físicos em tokens de governança e participação.
 
 ---
