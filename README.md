@@ -1,4 +1,4 @@
-# Olá, eu sou o Sandro! 👋 | Hi, I'm Sandro! 🚀
+# Olá, eu sou o Sandro! 👋 | Hi, I'm Sandro! 🚀 <img src="https://komarev.com/ghpvc/?username=Sandro-AAA&color=blue&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" align="right">
 
 ![Banner](banner.png)
 
@@ -82,9 +82,5 @@ Sou um empreendedor e desenvolvedor focado em unir o **Agronegócio**, **Blockch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-rj/)
 [![Crunchbase](https://img.shields.io/badge/Crunchbase-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white)](https://www.crunchbase.com/organization/sandro)
 
-<p align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Sandro-AAA&color=blue&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas">
-</p>
 
 *"Tecnologia a serviço da liberdade e do desenvolvimento real."*
