@@ -1,6 +1,6 @@
 # Olá, eu sou o Sandro! 👋 | Hi, I'm Sandro! 🚀
 
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Sandro%20-%20Web3%20%26%20Impact&fontSize=50)
+![Banner](banner.png)
 
 ### 🇧🇷 Cofundador ASPPIBRA-DAO | Arquiteto Web3 | Líder de Impacto Social
 ### 🇺🇸 Co-founder at ASPPIBRA-DAO | Web3 Architect | Social Impact Leader
@@ -57,7 +57,7 @@ Sou um empreendedor e desenvolvedor focado em unir o **Agronegócio**, **Blockch
 <table align="center">
   <tr>
     <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-AAA&layout=compact&theme=radical&hide=html,css"/>
+      <img height="180em" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=Sandro-AAA&layout=compact&theme=radical&hide=html,css"/>
     </td>
   </tr>
 </table>
