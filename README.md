@@ -68,7 +68,7 @@ Sou um empreendedor e desenvolvedor focado em unir o **Agronegócio**, **Blockch
 
 <p align="center">
   <a href="https://github.com/DEXWORLD-ECOSYSTEM/SocialFi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEXWORLD-ECOSYSTEM&repo=SocialFi&theme=radical" alt="Repo Card do SocialFi" />
+    <img src="https://github-stats-alpha.vercel.app/api/pin/?username=DEXWORLD-ECOSYSTEM&repo=SocialFi&theme=radical" alt="Repo Card do SocialFi" />
   </a>
 </p>
 
