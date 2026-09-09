@@ -46,23 +46,11 @@ Sou um empreendedor e desenvolvedor focado em unir o **Agronegócio**, **Blockch
 
 ---
 
-## 📊 Métricas de Desenvolvimento | Development Metrics
+## 📊 Métricas de Engenharia & Telemetria | Live Engineering Dashboard
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandro-AAA&theme=radical" alt="GitHub Streak" /></a>
+  <img src="assets/dashboard.svg" alt="Sandro AAA — Live Engineering Dashboard" width="100%">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandro-AAA&theme=react-dark" width="100%" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img height="180em" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=Sandro-AAA&layout=compact&theme=radical&hide=html,css"/>
-    </td>
-  </tr>
-</table>
 
 ---
 

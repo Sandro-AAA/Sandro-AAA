@@ -5,26 +5,36 @@ on:
   schedule:
     - cron: "0 3 * * *"
 
+permissions:
+  contents: write
+
 jobs:
-  test-github-api:
+  update-dashboard:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Test GitHub API
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate Dashboard SVG
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          echo "======================================"
-          echo "        GITHUB API TEST"
-          echo "======================================"
+          python3 scripts/generate_dashboard.py
 
-          curl -L \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer $GH_TOKEN" \
-            -H "X-GitHub-Api-Version: 2026-03-10" \
-            https://api.github.com/user
-
-          echo ""
-          echo "======================================"
-          echo "API TEST FINISHED"
-          echo "======================================"
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/dashboard.svg README.md
+          if ! git diff --quiet --staged; then
+            git commit -m "Auto-update GitHub Dashboard [skip ci]"
+            git push
+          else
+            echo "Nenhuma alteração para commitar."
+          fi
